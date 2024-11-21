@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": "1d8a",
+      "name": "Bluetooth Speaker",
+      "description": "Stylish, modern, light for the trips, best choice for active life",
+      "count": 50,
+      "weight": "2 kg",
+      "imageUrl": "",
+      "comments": [],
+      "size": {
+        "height": 0,
+        "width": 0
+      }
+    },
+    {
+      "id": "cdf4",
+      "name": "4k Monitor",
+      "description": "Best option for your MacBook",
+      "count": 10,
+      "weight": "3 kg",
+      "imageUrl": "",
+      "comments": [],
+      "size": {
+        "height": 0,
+        "width": 0
+      }
+    }
+  ]
+}
